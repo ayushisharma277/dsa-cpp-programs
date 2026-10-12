@@ -2,6 +2,7 @@
 using namespace std;
 
 int main()
+
 {
     int arr[] = {2, 7, 11, 15, 13};
     int n = sizeof(arr) / sizeof(arr[0]);
